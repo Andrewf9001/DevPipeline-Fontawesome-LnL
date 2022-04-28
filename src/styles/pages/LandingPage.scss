@@ -1,0 +1,11 @@
+.landing-page-container {
+  @include flex-column-center;
+
+  h1 {
+    font-size: 2.5em;
+  }
+
+  .hand-icon {
+    padding: 0 10px 0 10px;
+  }
+}
