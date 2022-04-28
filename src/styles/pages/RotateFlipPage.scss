@@ -1,0 +1,12 @@
+.rotate-flip-container {
+  @include flex-column-center;
+
+  svg {
+    font-size: 3em;
+    padding: 5px;
+  }
+
+  .rotation-wrapper {
+    margin-bottom: 2%;
+  }
+}

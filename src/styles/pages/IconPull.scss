@@ -1,0 +1,7 @@
+.icon-pull-container {
+  @include flex-column-center;
+
+  .paragraph-wrapper {
+    width: 70%;
+  }
+}

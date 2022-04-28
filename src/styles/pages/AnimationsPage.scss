@@ -1,0 +1,10 @@
+.fa-animations-container {
+  @include flex-column-center;
+
+  .animations-wrapper {
+    svg {
+      font-size: 1.8em;
+      margin: 10px;
+    }
+  }
+}
